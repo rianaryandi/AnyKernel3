@@ -412,7 +412,7 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
-ui_print " " "Simplified Kernel" " " " ";
+ui_print " " "Kernel BoreUp550cc" " " " ";
 
 setup_env;
 

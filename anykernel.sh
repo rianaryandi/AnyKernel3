@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=A simple kernel project
+kernel.string=A Kernel Compiler by @Gabuters
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
-device.name1=ugglite
-device.name2=ugg
-supported.versions=
+device.name1=ugg
+device.name2=ugglite
+supported.versions=9-12
 supported.patchlevels=
 '; } # end properties
 
