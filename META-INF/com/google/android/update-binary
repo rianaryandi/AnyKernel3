@@ -412,7 +412,7 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
-ui_print " " "Kernel BoreUp550cc" " " " ";
+ui_print " " "@amier_san09" " " " ";
 
 setup_env;
 
